@@ -18,7 +18,14 @@ Um simulador de bateria interativo que usa visão computacional (OpenCV) para de
 
 ## 🚀 Instalação
 
-1. Instale as dependências com `uv`:
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Miguel-Oliveiraa/python-drums-master.git
+   cd python-drums
+   ```
+
+2. Instale as dependências com `uv`:
    ```bash
    uv sync
    ```
